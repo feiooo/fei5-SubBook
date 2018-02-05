@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SubBook</string>
+    <string name="button_showlist">Show My Subscriptions</string>
+    <string name="button_add">Add New Subscription</string>
+    <string name="button_jan">January</string>
+    <string name="button_feb">February</string>
+    <string name="button_mar">March</string>
+    <string name="button_apir">April</string>
+    <string name="button_may">May</string>
+    <string name="button_june">June</string>
+    <string name="button_july">July</string>
+    <string name="button_aug">August</string>
+    <string name="button_sep">September</string>
+    <string name="button_oct">October</string>
+    <string name="button_nov">November</string>
+    <string name="button_Dece">December</string>
+    <string name="delete">Delete</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_save">save</string>
+    <string name="text_name">Name</string>
+    <string name="text_date">Date</string>
+    <string name="text_charge">Charge</string>
+    <string name="text_comment">Comment</string>
+</resources>
